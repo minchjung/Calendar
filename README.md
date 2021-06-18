@@ -1,5 +1,6 @@
 # Calendar
-## Calendar Class 
+## Everything needs to be refactored .. 코드 꼬라지 못봐주겠다 ㅠ; 
+### Calendar Class 
 * 1️⃣ __Initializer(year)__  : year Injection  
 * 2️⃣ __yrChecker()__  : 윤년 check   
 * 3️⃣ __addDays__  : 서기 1년 ~ year까지 총 윤년 횟수    
@@ -8,3 +9,4 @@
 * 6️⃣ __get_calendar()__  : 모든 요일 설정 +  numpy를 위해 2차원 배열 길이를 맞춤 
 * 7️⃣ __get_arr()__  : 3차원Numpy 객체로 달력 setting 
 * 
+### Visual_cal Class 

@@ -8,5 +8,7 @@
 * 5️⃣ __set_endList(checker)__ : 윤년일 경우 2월부터 끝날짜 +1
 * 6️⃣ __get_calendar()__  : 모든 요일 설정 +  numpy를 위해 2차원 배열 길이를 맞춤 
 * 7️⃣ __get_arr()__  : 3차원Numpy 객체로 달력 setting 
-* 
+
+### Print_cal Class
 ### Visual_cal Class 
+### VisAll Class

@@ -1,5 +1,5 @@
 # Calendar
-## Everything needs to be refactored .. 코드 꼬라지 못봐주겠다 ㅠ; 
+## Everything needs to be refactored .. 코드 못봐주겠다 ㅠ; 
 ### Calendar [Class](https://github.com/minchjung/Calendar/blob/main/Calendar_edited_v9/Calendar.py)
 * 1️⃣ __Initializer(year)__  : year Injection  
 * 2️⃣ __yrChecker()__  : 윤년 check   
